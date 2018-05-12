@@ -1,0 +1,32 @@
+_repo: '-------------------_42516'
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42516-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Palamas, Kostes
+    aliases:
+    - Palamas, Costi
+    - Παλαμάς, Κωστής
+    - Palamas, Kostis
+    - Palamas, Costis
+    birthdate: 1859
+    deathdate: 1943
+    gutenberg_agent_id: '26306'
+    url: http://www.gutenberg.org/2009/agents/26306
+    wikipedia: http://en.wikipedia.org/wiki/Kostis_Palamas
+description: ''
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42516'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek poetry, Modern'
+title: Ύμνος εις την Αθηνά
+url: http://www.gutenberg.org/ebooks/42516
