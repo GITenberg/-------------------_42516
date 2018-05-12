@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26306
     wikipedia: http://en.wikipedia.org/wiki/Kostis_Palamas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42516#-------------------
 gutenberg_issued: '2013-04-12'
 gutenberg_type: Text
 identifiers:
